@@ -1,0 +1,26 @@
+{
+  "name": "ejs2",
+  "version": "1.0.0",
+  "description": "Temporarily async function support of ejs, since not supported by official now. Based on v2.5.6.",
+  "main": "lib/ejs.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unimea/ejs2.git"
+  },
+  "keywords": [
+    "ejs",
+    "async"
+  ],
+  "author": "ejs official, extended by Unimea",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Unimea/ejs2/issues"
+  },
+  "homepage": "https://github.com/Unimea/ejs2#readme"
+}
